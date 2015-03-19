@@ -8,10 +8,10 @@
 		"type": "git",
 		"url": "http://github.com/bwdayley/nodebook/tree/master/ch03/censorify"
 	 },
-	"keywords": [
+	"keywords": {
      	"censor",
      	"words"
-     ],
+     },
 	"dependecies" : {},
 	"engines" : {
 		"node" : "*"
