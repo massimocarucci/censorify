@@ -1,0 +1,11 @@
+{
+	"author" : "Massimo Carucci",
+	"name" : "censorify",
+	"version" : "0.1.1",
+	"description" : "censor word out of text",
+	"main" : "censortext",
+	"dependecies" : {},
+	"engines" : {
+		"node" : "*"
+	}
+}
